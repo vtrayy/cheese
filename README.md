@@ -1,6 +1,6 @@
 > **Warning**
 >
-> The RetDec project is currently in a **limited maintenance mode** due to a lack of resources:
+> The Cheese project is currently in a **limited maintenance mode** due to a lack of resources:
 > * Pull Requests are welcomed. They are reviewed with priority, if possible without delays.
 > * Issues are reacted on with delays up to one quarter. Issues are not actively solved unless they relate to a basic project maintenance.
 > * The basic project maintenance continues.
