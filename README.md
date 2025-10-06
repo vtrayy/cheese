@@ -1,3 +1,13 @@
+> **Warning**
+>
+> The RetDec project is currently in a **limited maintenance mode** due to a lack of resources:
+> * Pull Requests are welcomed. They are reviewed with priority, if possible without delays.
+> * Issues are reacted on with delays up to one quarter. Issues are not actively solved unless they relate to a basic project maintenance.
+> * The basic project maintenance continues.
+> * Only a very limited development is carried on.
+
+
+
 **[中文版](README_CN.md)**
 # cheese
 cheese is an automation testing engine that can run automation scripts without root on Android 8.0 and above. Scripts are written in JavaScript, and plugins can be written to extend functionality.
